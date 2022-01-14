@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataProtectionUserConfig SchemaVersion="1">
+  <UserName>Manoj</UserName>
+  <FriendlyName>Manoj</FriendlyName>
+  <PCName>MANOJ</PCName>
+  <UserId>783f7c79-eaac-4d90-89c4-5e3e503470d0</UserId>
+  <Library>
+    <LibraryName>*2112ab0a-c86a-4ffe-a368-0de96e47012e</LibraryName>
+    <Folder>C:\Users\Manoj\Music</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*e25b5812-be88-4bd9-94b0-29233477b6c3</LibraryName>
+    <Folder>C:\Users\Manoj\Pictures\Saved Pictures</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*491e922f-5643-4af4-a7eb-4e7a138d8174</LibraryName>
+    <Folder>C:\Users\Manoj\Videos</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*2b20df75-1eda-4039-8097-38798227d5b7</LibraryName>
+    <Folder>C:\Users\Manoj\Pictures\Camera Roll</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*7b0db17d-9cd2-4a93-9733-46cc89022e7c</LibraryName>
+    <Folder>C:\Users\Manoj\Documents</Folder>
+    <Folder>C:\Users\Manoj\OneDrive\Documents</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*a990ae9f-a03b-4e80-94bc-9912d7504104</LibraryName>
+    <Folder>C:\Users\Manoj\Pictures</Folder>
+    <Folder>C:\Users\Manoj\OneDrive\Pictures</Folder>
+  </Library>
+  <UserFolder>C:\Users\Manoj\.anaconda</UserFolder>
+  <UserFolder>C:\Users\Manoj\.android</UserFolder>
+  <UserFolder>C:\Users\Manoj\.AndroidStudio3.3</UserFolder>
+  <UserFolder>C:\Users\Manoj\.BigNox</UserFolder>
+  <UserFolder>C:\Users\Manoj\.conda</UserFolder>
+  <UserFolder>C:\Users\Manoj\.designer</UserFolder>
+  <UserFolder>C:\Users\Manoj\.gradle</UserFolder>
+  <UserFolder>C:\Users\Manoj\.idlerc</UserFolder>
+  <UserFolder>C:\Users\Manoj\.ipython</UserFolder>
+  <UserFolder>C:\Users\Manoj\.jupyter</UserFolder>
+  <UserFolder>C:\Users\Manoj\.keras</UserFolder>
+  <UserFolder>C:\Users\Manoj\.matplotlib</UserFolder>
+  <UserFolder>C:\Users\Manoj\.nbi</UserFolder>
+  <UserFolder>C:\Users\Manoj\.PyCharm2019.1</UserFolder>
+  <UserFolder>C:\Users\Manoj\.PyCharmCE2019.1</UserFolder>
+  <UserFolder>C:\Users\Manoj\.pylint.d</UserFolder>
+  <UserFolder>C:\Users\Manoj\.vscode</UserFolder>
+  <UserFolder>C:\Users\Manoj\AndroidStudioProjects</UserFolder>
+  <UserFolder>C:\Users\Manoj\AppData</UserFolder>
+  <UserFolder>C:\Users\Manoj\build</UserFolder>
+  <UserFolder>C:\Users\Manoj\Creative Cloud Files</UserFolder>
+  <UserFolder>C:\Users\Manoj\dist</UserFolder>
+  <UserFolder>C:\Users\Manoj\Intel</UserFolder>
+  <UserFolder>C:\Users\Manoj\IntelGraphicsProfiles</UserFolder>
+  <UserFolder>C:\Users\Manoj\manoj-HtmlExport</UserFolder>
+  <UserFolder>C:\Users\Manoj\MicrosoftEdgeBackups</UserFolder>
+  <UserFolder>C:\Users\Manoj\MySQL</UserFolder>
+  <UserFolder>C:\Users\Manoj\New folder</UserFolder>
+  <UserFolder>C:\Users\Manoj\Nox_share</UserFolder>
+  <UserFolder>C:\Users\Manoj\PycharmProjects</UserFolder>
+  <UserFolder>C:\Users\Manoj\vmlogs</UserFolder>
+  <UserFolder>C:\Users\Manoj\Searches</UserFolder>
+  <UserFolder>C:\Users\Manoj\3D Objects</UserFolder>
+  <UserFolder>C:\Users\Manoj\Desktop</UserFolder>
+  <UserFolder>C:\Users\Manoj\OneDrive</UserFolder>
+  <UserFolder>C:\Users\Manoj\Contacts</UserFolder>
+  <UserFolder>C:\Users\Manoj\Pictures</UserFolder>
+  <UserFolder>C:\Users\Manoj\Favorites</UserFolder>
+  <UserFolder>C:\Users\Manoj\Videos</UserFolder>
+  <UserFolder>C:\Users\Manoj\Music</UserFolder>
+  <UserFolder>C:\Users\Manoj\Downloads</UserFolder>
+  <UserFolder>C:\Users\Manoj\Documents</UserFolder>
+  <UserFolder>C:\Users\Manoj\Links</UserFolder>
+  <UserFolder>C:\Users\Manoj\Saved Games</UserFolder>
+  <LocalCatalogPath1>C:\Users\Manoj\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog1.edb</LocalCatalogPath1>
+  <LocalCatalogPath2>C:\Users\Manoj\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog2.edb</LocalCatalogPath2>
+  <StagingArea>
+    <StagingAreaPath>C:\Users\Manoj\AppData\Local\Microsoft\Windows\FileHistory\Data</StagingAreaPath>
+    <StagingAreaMaximumCapacity>1071115120</StagingAreaMaximumCapacity>
+    <StagingAreaWarningThreshold>803336340</StagingAreaWarningThreshold>
+  </StagingArea>
+  <AvailabilityPolicies>
+    <TargetAbsenceTime>5</TargetAbsenceTime>
+    <TimeInUnprotectedState>3</TimeInUnprotectedState>
+  </AvailabilityPolicies>
+  <RetentionPolicies>
+    <RetentionPolicyType>DISABLED</RetentionPolicyType>
+    <MinimumRetentionAge>365</MinimumRetentionAge>
+  </RetentionPolicies>
+  <DPFrequency>3600</DPFrequency>
+  <DPStatus>ENABLED</DPStatus>
+  <Target>
+    <TargetName>USBSTORAGE (G:)</TargetName>
+    <TargetUrl>G:\</TargetUrl>
+    <TargetVolumePath>\\?\Volume{4bc46f11-c00a-11e8-bde6-54e1ad6c93b1}\</TargetVolumePath>
+    <TargetDriveType>REMOVABLE</TargetDriveType>
+    <TargetConfigPath1>Manoj\MANOJ\Configuration\Config1.xml</TargetConfigPath1>
+    <TargetConfigPath2>Manoj\MANOJ\Configuration\Config2.xml</TargetConfigPath2>
+    <TargetCatalogPath1>Manoj\MANOJ\Configuration\Catalog1.edb</TargetCatalogPath1>
+    <TargetCatalogPath2>Manoj\MANOJ\Configuration\Catalog2.edb</TargetCatalogPath2>
+    <TargetBackupStorePath>Manoj\MANOJ\Data</TargetBackupStorePath>
+    <TargetWarningThreshold>98</TargetWarningThreshold>
+  </Target>
+</DataProtectionUserConfig>

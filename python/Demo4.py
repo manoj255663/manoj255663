@@ -1,0 +1,9 @@
+l=[1,22,33,6666,55]
+print(l)
+l[3]=44
+print(l[3])
+print(l)
+print(len(l))
+print(l)
+del(l[3])
+print(l)
